@@ -1,0 +1,14 @@
+/*center h1*/
+h1 {
+    margin: 50% 50%
+}
+/*make background blue*/
+html {
+    background-color: blue;
+
+}
+/*make text red*/
+.red {
+    color: red;
+
+}
